@@ -1,18 +1,14 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+This is a group chat I modeled off this video:
+https://www.youtube.com/watch?v=gLfuZrrfKes
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<b> It is a great Youtube tutorial on an intro to web sockets and would highly recommend it.</b>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Project
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Built a group chat in Java using sockets, and learning how to listen and write data to and from different sockets
 
-## Dependency Management
+Will build off of this project in the near future
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
